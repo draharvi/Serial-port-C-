@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\ComTest\ComTest\bin\Debug\ComTest.exe.config
+C:\Users\user\source\repos\ComTest\ComTest\bin\Debug\ComTest.exe
+C:\Users\user\source\repos\ComTest\ComTest\bin\Debug\ComTest.pdb
+C:\Users\user\source\repos\ComTest\ComTest\obj\Debug\ComTest.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\ComTest\ComTest\obj\Debug\ComTest.Form1.resources
+C:\Users\user\source\repos\ComTest\ComTest\obj\Debug\ComTest.Properties.Resources.resources
+C:\Users\user\source\repos\ComTest\ComTest\obj\Debug\ComTest.csproj.GenerateResource.cache
+C:\Users\user\source\repos\ComTest\ComTest\obj\Debug\ComTest.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ComTest\ComTest\obj\Debug\ComTest.exe
+C:\Users\user\source\repos\ComTest\ComTest\obj\Debug\ComTest.pdb
